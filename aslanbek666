@@ -1,0 +1,3 @@
+git clone --bare https://github.com/lordralinc/idm_lp.git
+cd idm_lp.git
+git push --mirror https://github.com/<nick>/<name>.git
